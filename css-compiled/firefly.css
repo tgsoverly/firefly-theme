@@ -8,6 +8,9 @@ canvas {
   top: 0px;
   left: 0px; }
 
+.firefly-font {
+  font: 400 3.5em/125% 'Bad Script', Helvetica, Sans-serif; }
+
 .showcase .button {
   z-index: 11; }
 
